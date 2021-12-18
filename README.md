@@ -8,8 +8,6 @@
 
 `git clone https://github.com/iexg/fltklayout.git`
 
-#// or download and unzip https://github.com/iexg/fltklayout/archive/master.zip into fltklayout/ directory
-
 `cd fltklayout`
 
 `make`
