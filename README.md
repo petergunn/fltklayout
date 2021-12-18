@@ -6,7 +6,7 @@
 
 `sudo yum install git fltk-devel fltk-fluid fltk-static libXinerama-devel libXcursor-devel libXrender libXcursor libXinerama libXft gnu-free-fonts-common gnu-free-sans-fonts gnu-free-serif-fonts gnu-free-mono-fonts xauth`
 
-`git clone https://github.com/iexg/fltklayout.git`
+`git clone https://github.com/petergunn/fltklayout.git`
 
 `cd fltklayout`
 
